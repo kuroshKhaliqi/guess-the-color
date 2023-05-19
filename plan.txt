@@ -1,0 +1,22 @@
+easy mode: 
+            Instaed of hex put name of the colors
+             you start with 50 points you have to get to 100.
+             if you get one wrong you move on you dont loose points.
+medium mode:
+            instead of just colors were also gonna add some hex (aka the colors number/code).
+            this  time you start at 20 points instead of fifty.
+            and this time if you get it wrong were not skipping your gonna lose a 10 points.
+
+hard mode:
+            this time its all hex.
+            if you get it wrong  you lose 20 points.
+            if you get it right you gain 15 points not 20 be carful.
+            you only start with 20 points.
+
+impossible mode:
+            its all hex.
+            you start with 10 points.
+            you lose 10 points  every time you get it wrong.
+            when you get the color right you win 10 points and 7s
+            there is a 15 second timer.
+            use your time wisly.
